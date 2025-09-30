@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá, eu sou Karine Lima
 
-<!--
-**KarineE-Lima/KarineE-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando linguagem C
+- 😄 Pronouns: ela/dela
+<div align="center">
+  <a href="https://github.com/KarineE-Lima" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarineE-Lima&show_icons=true&theme=dracula"&include_all_commits=true/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarineE-Lima&layout=compact&theme=dracula"&include_all_commits=true/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+ ##
+ 
+<div style="display: inline_block" align="center"><br>
+  <img alight="center" title="HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></abbr>
+  <img alight="center" title="CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alight="center" title="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alight="center" title="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alight="center" title="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+ 
+
