@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/KarineE-Lima" target="_blank">
-    <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=KarineE-Lima&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KarineE-Lima&layout=compact&theme=radical&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarineE-Lima&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarineE-Lima&layout=compact&theme=radical&include_all_commits=true"/>
   </a>
 </div>
 
