@@ -11,16 +11,9 @@
 
 <div style="display: block;">
   <h3>🤖 Linguagens e Tecnologias:</h3>
-  <div style="display: inline-block;">
+  <a href="https://github.com/KarineE-Lima" target="_blank">
     <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,c,python,git" />
-    <!--<img title="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img title="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img title="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-    <img title="Spring" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-    <img title="C" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-    <img title="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img title="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>-->
-  </div>
+  </a>
 </div>
 
 
